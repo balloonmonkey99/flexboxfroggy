@@ -29,7 +29,7 @@ test:
   - head-branch: ["test"]
 
 translation:
-  - head-granch: ["translation"]
+  - head-branch: ["translation"]
 
 other:
   - head-branch: ["other"]
