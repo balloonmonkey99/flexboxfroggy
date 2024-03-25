@@ -237,9 +237,6 @@ pre {
   margin-top: 0.5rem;
   font-size: 15px;
   user-select: none;
-  user-select: none;
-  user-select: none;
-  user-select: none;
 }
 
 #levelsWrapper {
@@ -374,10 +371,6 @@ button {
   color: #fff;
   cursor: pointer;
   user-select: none;
-  user-select: none;
-  user-select: none;
-  user-select: none;
-  appearance: none;
   appearance: none;
 }
 
@@ -498,29 +491,17 @@ button:not(.disabled):hover {
 
 .frog.bounceOutUp {
   animation-delay: .6s;
-  animation-delay: .6s;
-  animation-delay: .6s;
-  animation-delay: .6s;
 }
 
 .frog .bg.bounce {
-  animation-duration: 2s;
-  animation-duration: 2s;
-  animation-duration: 2s;
   animation-duration: 2s;
 }
 
 .frog.yellow .bg.bounce {
   animation-delay: .3s;
-  animation-delay: .3s;
-  animation-delay: .3s;
-  animation-delay: .3s;
 }
 
 .frog.red .bg.bounce {
-  animation-delay: .6s;
-  animation-delay: .6s;
-  animation-delay: .6s;
   animation-delay: .6s;
 }
 
