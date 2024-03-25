@@ -16,7 +16,7 @@
   },
   "scripts": {
     "lint:js": "eslint js/*.js",
-    "lint:css": "stylelint '**/*.css' --fix",
+    "lint:css": "stylelint **/*.css --fix",
     "lint": "npm run lint:js && npm run lint:css"
   },
   "author": "Thomas Park",
