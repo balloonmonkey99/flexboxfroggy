@@ -424,7 +424,7 @@ var messages = {
     'hr': 'Želiš li naučiti CSS grid? Igraj',
     'ro': 'Vrei să înveți CSS grid? Joacă',
     'de': 'Möchtest du CSS grid lernen? Spiele',
-    'fr': 'Voulez vous apprendre CSS Grid ? Jouez à',
+    'fr': 'Vous voulez apprendre CSS Grid ? Jouez à',
     'pt-br': 'Quer aprender CSS grid? Jogue',
     'ru': 'Хотите изучить CSS grid? Сыграйте в',
     'nl': 'Wil je CSS grid leren? Speel',
